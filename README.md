@@ -3,8 +3,7 @@
   </a></p>
 
 # LINK DE ACESSO
-
-https://projetohackton.netlify.com/ 
+https://startupconnection.netlify.com/
 
 # Startup Connection - FrontEnd
 
